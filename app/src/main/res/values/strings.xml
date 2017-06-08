@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PracticeProject2</string>
+    <string name="title">Title</string>
+    <string name="enter_name">Enter name</string>
+    <string name="action_sign_in_short">action_sign_in_short</string>
+    <string name="btn_join">Join</string>
+    <string name="author_name">Lokesh</string>
+    <string name="author_url">www.google.com/sites/lokeshurl</string>
+</resources>
